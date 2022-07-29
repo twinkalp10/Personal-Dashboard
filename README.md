@@ -1,5 +1,5 @@
 # Personal Dashboard
-Your Personal Dashboard exension with the beatiful natural background, shows current time, your city with temprature, author of background image and useful information about crypto coin.
+Your Personal Dashboard exension with the beatiful natural background, shows current time, your city with temperature, author of background image and useful information about crypto coin.
 
 ### Technology used
 
